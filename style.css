@@ -2,10 +2,7 @@ h1 {
     text-align: center;
     font-family: 'Shippori Mincho', serif;
 }
-.auth{
-	line-height: 3em;
-	margin-top: 3em;
-}
+
 h2 {
     text-align: justify;
     vertical-align: middle;
@@ -294,4 +291,11 @@ padding-top: 3rem;
 }
 #ptext{
 	font-size: larger;
+}
+.auth{
+	line-height: 3em;
+	margin-top: 3em;
+}
+#login-div{
+	margin-top: 3em;
 }
